@@ -1,5 +1,5 @@
 # ML Exercise 3: Attribute Inference Attacks on Machine Learning Models
-
+_Remark: README and comments were automatically created by Claude AI_
 ## Topic 3.1.1.2: Attribute Inference (disclosure) from ML Models
 
 This project implements attribute inference attacks on machine learning models using the **German Credit dataset**, following the methodology from Fredrikson et al. (USENIX Security 2014).
